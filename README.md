@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! welcome my profile! 👋
+
+<body>
+  <h1>About me:</h1>  
+  <h3> My name is Marielsa Parra, I´m 29 years old, I´m from Barranquilla, I'm a Graphic Designer and an llustrator. I like art and animation. </h3>
+  <h3> My hobbies are reading comic, watching netflix and drawing for the ilustration. </h3>
+  <h3> I am currently learning Software development in Riwi Barranquilla. </h3>
+</body>
 
 <!--
 **marielsa-design/marielsa-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
