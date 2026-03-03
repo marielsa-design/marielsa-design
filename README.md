@@ -1,23 +1,42 @@
-## Hi! welcome my profile! 👋
+# 👋 Hi, I'm Marielsa Parra
 
-<body>
-  <h1>About me:</h1>  
-  <h3> My name is Marielsa Parra, I´m 29 years old, I´m from Barranquilla, I'm a Graphic Designer and an llustrator. I like art and animation. </h3>
-  <h3> My hobbies are reading comic, watching netflix and drawing for the ilustration. </h3>
-  <h3> I am currently learning Software development in Riwi Barranquilla. </h3>
-</body>
+🎨 Graphic designer and Illustrator with an artistic focus  
+💻 Transitioning to digital animation and creative web development  
+✨ I'm interested in creating visual experiences that combine art, design, and technology
 
-<!--
-**marielsa-design/marielsa-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Learning Software development and Animation 2D
+- Exploring web animation and basic motion
+- Developing visual and creative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Tools
+- Design: Procreate, Clip Studio Paint, Illustrator, Toon Boom Harmony 
+- Web: Python, HTML, CSS
+- Others: Git, GitHub, Figma
+
+---
+
+## 📂 Featured Projects
+🔹 **Digital Illustrations**  
+Collection of visual pieces applied to projects.
+
+🔹 **Creative Web Animation**  
+Small animations using CSS and JavaScript for visual practice.
+
+🔹 **Artistic Landing Page**  
+Design and development of a page with an aesthetic and UX focus.
+
+---
+
+## 🎯 Professional Goal
+To continue growing as a digital creator, combining **art, animation, and technology**, and to collaborate on creative projects.
+
+---
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/marielsa-parra-a0b8a3206
+- Portfolio: https://www.behance.net/marielsamilagro
