@@ -38,5 +38,5 @@ To continue growing as a digital creator, combining **art, animation, and techno
 ---
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/marielsa-parra-a0b8a3206
+- LinkedIn: www.linkedin.com/in/marielsa-parra
 - Portfolio: https://www.behance.net/marielsamilagro
