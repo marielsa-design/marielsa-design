@@ -36,7 +36,8 @@ My goal is to develop skills in **animation, digital art, and creative web devel
 
 To continue growing as a digital creator by combining **art, design, and programming**, and to contribute to creative and innovative projects.
 
-⭐ Thanks for visiting my profile
-📫 Contact
+
+# 📫 Contact
+
 - LinkedIn: www.linkedin.com/in/marielsa-parra
 - Portfolio: https://www.behance.net/marielsamilagro
