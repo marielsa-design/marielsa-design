@@ -1,32 +1,42 @@
 # 👋 Hi, I'm Marielsa Parra
 
-🎨 Graphic designer and Illustrator with an artistic focus  
-💻 Transitioning to digital animation and creative web development  
-✨ I'm interested in creating visual experiences that combine art, design, and technology
+🎨 Graphic designer with a focus on art  
+💻 Currently learning software development and programming  
+✨ Interested in digital animation, illustration, and creative technology
 
-# 🚀 Currently
-- Learning Software development and Animation 2D
-- Exploring web animation and basic motion
-- Developing visual and creative projects
+# 🚀 About Me
+I am a graphic designer with a strong interest in combining creativity and technology.  
+Currently, I am learning programming and development tools to create digital and visual projects.
+
+My goal is to develop skills in **animation, digital art, and creative web development**.
 
 # 🛠 Technologies & Tools
-- Design: Procreate, Clip Studio Paint, Illustrator, Toon Boom Harmony 
-- Web: Python, HTML, CSS
-- Others: Git, GitHub, Figma
+💻 Programming
+- Python
+- HTML
+- CSS
 
-# 📂 Featured Projects
-🔹 **Digital Illustrations**  
-Collection of visual pieces applied to projects.
+🎨 Design
+- Procreate
+- Clip Studio Paint
+- Adobe Illustrator
+- Toon Boom Harmony
 
-🔹 **Creative Web Animation**  
-Small animations using CSS and JavaScript for visual practice.
+🧰 Tools
+- Git
+- GitHub
+- Visual Studio Code
 
-🔹 **Artistic Landing Page**  
-Design and development of a page with an aesthetic and UX focus.
+# 🌱 Currently Learning
+- Python programming  
+- Version control with Git  
+- Basic web development
 
 # 🎯 Professional Goal
-To continue growing as a digital creator, combining **art, animation, and technology**, and to collaborate on creative projects.
 
-# 📫 Contact
+To continue growing as a digital creator by combining **art, design, and programming**, and to contribute to creative and innovative projects.
+
+⭐ Thanks for visiting my profile
+📫 Contact
 - LinkedIn: www.linkedin.com/in/marielsa-parra
 - Portfolio: https://www.behance.net/marielsamilagro
